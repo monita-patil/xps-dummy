@@ -6,6 +6,7 @@
   <groupId>com.xps</groupId>
   <artifactId>xps-dummy</artifactId>
   <name>xps-dummy</name>
+  <version>1.2-SNAPSHOT</version>
   <url>http://maven.apache.org</url>
 
   <dependencies>
